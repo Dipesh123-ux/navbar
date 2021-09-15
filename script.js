@@ -5,8 +5,8 @@ var close = document.getElementById("cl");
 
 
 open.addEventListener("click",()=>{
-    menu.style.right = "-5%";
+    menu.style.right = "-15%";
 })
 close.addEventListener("click",()=>{
-    menu.style.right = "-65%";
+    menu.style.right = "-85%";
 })
